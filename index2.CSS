@@ -1,0 +1,24 @@
+h2{
+    font-style: italic;
+}
+p{
+    color:blue;
+
+}
+ol{
+    color:brown;
+}
+ul{
+        color: red;
+        font-size: 18px;
+        letter-spacing: 5px;
+        
+    }
+body{
+    background-image: url("./background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}r
+
+
+
